@@ -1,20 +1,13 @@
 kent
 # demo_test
- 
-<<<<<<< Updated upstream
-
+ 1111
+sadsadsad
  1ST
  2nd branch
-=======
-oh yeayhhhhh
-yeayhhhhhyeah
-\
-yeayhhhhh
- 1ST
->>>>>>> Stashed changes
 ohteah
 asdfas
 dsaf
 dafs
-
+sadsadsadasd
 jgshdfsaghvdas
+adadjaoiaoihdoaihdoiad
